@@ -15,5 +15,5 @@
  <tr><td>Width</td><td>1260</td><td>1260</td><td>1260</td><td>1220</td><td>1260</td><td>1220</td><td>1260</td><td>1220</td></tr>
  <tr><td>Length</td><td>1380</td><td>1610</td><td>1540</td><td>1020</td><td>1060</td><td>1280</td><td>1060</td><td>1220</td></tr>
  <tr><td>Weight</td><td>131</td><td>185</td><td>NA</td><td>90</td><td>120</td><td>92</td><td>110</td><td>&nbsp;</td></tr>
- <tr><td>Points</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td></td></tr>
+ <tr><td>Points</td><td>5</td><td>5</td><td>5</td><td>6</td><td>5</td><td>5</td><td>8</td><td>7</td></tr>
 </tbody></table>
