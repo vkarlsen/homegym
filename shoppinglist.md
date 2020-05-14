@@ -79,3 +79,7 @@
         </tr>
     </tbody>
 </table>
+
+## Notes ##
+[Tableizer](https://tableizer.journalistopia.com/tableizer.php)
+[Formatter](https://www.freeformatter.com/html-formatter.html)
