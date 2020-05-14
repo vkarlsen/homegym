@@ -39,3 +39,9 @@
 - [Royal black bumpers 2.0](https://www.kingsbox.it/en/product/royal-black-bumper-plates/)
 - [Home bumpers](https://www.kingsbox.it/en/product/kingsbox-home-bumper-plates/)
 - [Steel plates](https://www.kingsbox.it/en/product/kingsbox-steel-plates/)
+
+# Notes #
+Standard sleeve length on a barbell is 415mm. This allows for:
+- Royal bumpers: 5 plates with 50mm for lock collar
+- Home bumpers: 5 plates with 25mm for lock collar
+- Steel plates: Plenty of room
