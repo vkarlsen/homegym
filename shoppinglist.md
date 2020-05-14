@@ -1,23 +1,11 @@
 # Shopping list #
 ## Total: 3101 ##
-<table class="tableizer-table">
+<table>
     <thead>
-        <tr class="tableizer-firstrow">
-            <th>Total</th>
-            <th>3101</th>
-            <th>&nbsp;</th>
-        </tr>
-    </thead>
-    <tbody>
         <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Price</td>
-            <td>Link</td>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Link</th>
         </tr>
         <tr>
             <td>Great Bar Olympic Barbell</td>
