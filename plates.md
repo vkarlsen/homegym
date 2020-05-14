@@ -3,8 +3,8 @@
 <table>
     <tr>
         <th>Weight</th>
-        <th>Royal black bumpers 2.0</th>
-		<th>Home bumpers</th>
+        <th>Royal black bumpers 2.0 (73mm)</th>
+		<th>Home bumpers (78mm)</th>
 		<th>Steel plates</th>
 	</tr><tr>
         <td>1.25</td>
