@@ -23,14 +23,14 @@
             <td>https://www.kingsbox.it/en/product/flat-bench-kingsbox/</td>
         </tr>
         <tr>
-            <td>Home Bumpers</td>
-            <td>1</td>
+            <td>Home Bumpers (5+10+(4*20))</td>
+            <td>3</td>
             <td>672</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-home-bumper-plates/</td>
         </tr>
         <tr>
-            <td>KingsBox Steel Micro Loads</td>
-            <td>1</td>
+            <td>KingsBox Steel Micro Loads (1.25+2.5)</td>
+            <td>2</td>
             <td>60</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-steel-micro-loads/</td>
         </tr>
