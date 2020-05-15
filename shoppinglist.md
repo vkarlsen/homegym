@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3294 ##
+## Total: 3176 ##
 <table>
     <thead>
         <tr>
@@ -60,8 +60,8 @@
         </tr>
         <tr>
             <td>-Grip bar</td>
-            <td>1</td>
-            <td>118</td>
+            <td>0</td>
+            <td>(118)</td>
             <td>https://www.kingsbox.it/en/product/multigrip-bar/</td>
         </tr>
         <tr>
