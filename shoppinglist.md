@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3101 ##
+## Total: 3294 ##
 <table>
     <thead>
         <tr>
