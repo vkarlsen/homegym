@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3176 ##
+## Total: 3261.4 ##
 <table>
     <thead>
         <tr>
@@ -99,6 +99,12 @@
             <td>2</td>
             <td>46</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-lock-jaw-steel/</td>
+        </tr>
+        <tr>
+            <td>Barbell floor stand</td>
+            <td>1</td>
+            <td>85.40</td>
+            <td>https://www.kingsbox.it/en/product/cylinder-floor-stand/</td>
         </tr>
     </tbody>
 </table>
