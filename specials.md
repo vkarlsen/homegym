@@ -8,3 +8,6 @@ Price: 245
 
 ## [Farmer Walk Handles](https://www.kingsbox.it/en/product/farmers-walk-handles/) ##
 Price: 145
+
+## [Barbell floor stand](https://www.kingsbox.it/en/product/cylinder-floor-stand/)
+Price: 85.40
