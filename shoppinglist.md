@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3261.4 ##
+## Total: 3317 ##
 <table>
     <thead>
         <tr>
@@ -105,6 +105,11 @@
             <td>1</td>
             <td>85.40</td>
             <td>https://www.kingsbox.it/en/product/cylinder-floor-stand/</td>
+        </tr>
+        <tr>
+            <td>Armor dip belt</td>
+            <td>1</td>
+            <td>56</td>
         </tr>
     </tbody>
 </table>
