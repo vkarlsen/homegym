@@ -110,6 +110,7 @@
             <td>Armor dip belt</td>
             <td>1</td>
             <td>56</td>
+            <td>https://www.kingsbox.it/en/product/armor-dip-belt/</td>
         </tr>
     </tbody>
 </table>
