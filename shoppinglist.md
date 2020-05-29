@@ -60,9 +60,9 @@
         </tr>
         <tr>
             <td>-<del>Grip bar</del></td>
-            <td>0</td>
-            <td>(118)</td>
-            <td>https://www.kingsbox.it/en/product/multigrip-bar/</td>
+            <td><del>0</del></td>
+            <td><del>(118)</del></td>
+            <td><del>https://www.kingsbox.it/en/product/multigrip-bar/</del></td>
         </tr>
         <tr>
             <td>-Dip bar</td>
