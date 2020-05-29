@@ -59,12 +59,6 @@
             <td>https://www.kingsbox.it/en/product/mighty-mortar-bumper-rack/</td>
         </tr>
         <tr>
-            <td>-<del>Grip bar</del></td>
-            <td><del>0</del></td>
-            <td><del>(118)</del></td>
-            <td><del>https://www.kingsbox.it/en/product/multigrip-bar/</del></td>
-        </tr>
-        <tr>
             <td>-Dip bar</td>
             <td>1</td>
             <td>169</td>
