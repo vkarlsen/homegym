@@ -54,7 +54,7 @@
         </tr>
         <tr>
             <td>-Bumper rack</td>
-            <td>1</td>
+            <td>2</td>
             <td>74</td>
             <td>https://www.kingsbox.it/en/product/mighty-mortar-bumper-rack/</td>
         </tr>
