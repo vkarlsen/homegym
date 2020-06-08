@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3317 ##
+## Total: 3347 ##
 <table>
     <thead>
         <tr>
@@ -65,10 +65,10 @@
             <td>https://www.kingsbox.it/en/product/mighty-dip-bar/</td>
         </tr>
         <tr>
-            <td>Royal Hex Bar</td>
+            <td>Swiss bar</td>
             <td>1</td>
-            <td>177</td>
-            <td>https://www.kingsbox.it/en/product/royal-hex-bar/</td>
+            <td>207</td>
+            <td>https://www.kingsbox.it/en/product/kingsbox-swiss-bar/</td>
         </tr>
         <tr>
             <td>Log Strongman ML-2</td>
