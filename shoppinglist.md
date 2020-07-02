@@ -1,5 +1,5 @@
 # Shopping list #
-## Total: 3405 ##
+## Total: 3866 ##
 <table>
     <thead>
         <tr>
@@ -111,6 +111,18 @@
             <td>1</td>
             <td>58</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-chains/</td>
+        </tr>
+        <tr>
+            <td>Royal floor mats 1x1 20mm</td>
+            <td>12</td>
+            <td>360</td>
+            <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
+        </tr>
+        <tr>
+            <td>Royal floor mats 0.5x0.5 20mm</td>
+            <td>8</td>
+            <td>56</td>
+            <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
         </tr>
     </tbody>
 </table>
