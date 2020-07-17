@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Great Bar Olympic Barbell</td>
+            <td>*Great Bar Olympic Barbell</td>
             <td>1</td>
             <td>245</td>
             <td>https://www.kingsbox.it/en/product/great-bar-olympic-barbell/</td>
@@ -23,13 +23,13 @@
             <td>https://www.kingsbox.it/en/product/flat-bench-kingsbox/</td>
         </tr>
         <tr>
-            <td>Home Bumpers (5+10+(4*20))</td>
+            <td>*Home Bumpers (5+10+(4*20))</td>
             <td>3</td>
             <td>672</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-home-bumper-plates/</td>
         </tr>
         <tr>
-            <td>KingsBox Steel Micro Loads (1.25+2.5)</td>
+            <td>*KingsBox Steel Micro Loads (1.25+2.5)</td>
             <td>2</td>
             <td>60</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-steel-micro-loads/</td>
@@ -65,7 +65,7 @@
             <td>https://www.kingsbox.it/en/product/mighty-dip-bar/</td>
         </tr>
         <tr>
-            <td>Swiss bar</td>
+            <td>*Swiss bar</td>
             <td>1</td>
             <td>207</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-swiss-bar/</td>
@@ -113,19 +113,20 @@
             <td>https://www.kingsbox.it/en/product/kingsbox-chains/</td>
         </tr>
         <tr>
-            <td>Royal floor mats 1x1 20mm</td>
+            <td>*Royal floor mats 1x1 20mm</td>
             <td>12</td>
             <td>360</td>
             <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
         </tr>
         <tr>
-            <td>Royal floor mats 0.5x0.5 20mm</td>
+            <td>*Royal floor mats 0.5x0.5 20mm</td>
             <td>8</td>
             <td>56</td>
             <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
         </tr>
     </tbody>
 </table>
+*Backorder
 
 ## Notes ##
 [Tableizer](https://tableizer.journalistopia.com/)
