@@ -17,7 +17,7 @@
             <td>https://www.kingsbox.it/en/product/great-bar-olympic-barbell/</td>
         </tr>
         <tr>
-            <td>KingsBox Flat Bench</td>
+            <td>*KingsBox Flat Bench</td>
             <td>1</td>
             <td>182</td>
             <td>https://www.kingsbox.it/en/product/flat-bench-kingsbox/</td>
@@ -29,7 +29,7 @@
             <td>https://www.kingsbox.it/en/product/kingsbox-home-bumper-plates/</td>
         </tr>
         <tr>
-            <td>*KingsBox Steel Micro Loads (1.25+2.5)</td>
+            <td>KingsBox Steel Micro Loads (1.25+2.5)</td>
             <td>2</td>
             <td>60</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-steel-micro-loads/</td>
@@ -47,7 +47,7 @@
             <td>https://www.kingsbox.it/en/product/mighty-angel-arms-ii/</td>
         </tr>
         <tr>
-            <td>-Safety straps</td>
+            <td>*-Safety straps</td>
             <td>1</td>
             <td>140</td>
             <td>https://www.kingsbox.it/en/product/mighty-safety-straps/</td>
@@ -89,37 +89,37 @@
             <td>https://www.kingsbox.it/en/product/spring-collars/</td>
         </tr>
         <tr>
-            <td>Kingsbox Lock Jaw Steel</td>
+            <td>*Kingsbox Lock Jaw Steel</td>
             <td>2</td>
             <td>46</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-lock-jaw-steel/</td>
         </tr>
         <tr>
-            <td>Barbell floor stand</td>
+            <td>*Barbell floor stand</td>
             <td>1</td>
             <td>85.40</td>
             <td>https://www.kingsbox.it/en/product/cylinder-floor-stand/</td>
         </tr>
         <tr>
-            <td>Armor dip belt</td>
+            <td>*Armor dip belt</td>
             <td>1</td>
             <td>56</td>
             <td>https://www.kingsbox.it/en/product/armor-dip-belt/</td>
         </tr>
         <tr>
-            <td>Chains</td>
+            <td>*Chains</td>
             <td>1</td>
             <td>58</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-chains/</td>
         </tr>
         <tr>
-            <td>*Royal floor mats 1x1 20mm</td>
+            <td>Royal floor mats 1x1 20mm</td>
             <td>12</td>
             <td>360</td>
             <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
         </tr>
         <tr>
-            <td>*Royal floor mats 0.5x0.5 20mm</td>
+            <td>Royal floor mats 0.5x0.5 20mm</td>
             <td>8</td>
             <td>56</td>
             <td>https://www.kingsbox.it/en/product/royal-rubber-floor/</td>
