@@ -17,7 +17,7 @@
             <td>https://www.kingsbox.it/en/product/great-bar-olympic-barbell/</td>
         </tr>
         <tr>
-            <td>*KingsBox Flat Bench</td>
+            <td>KingsBox Flat Bench</td>
             <td>1</td>
             <td>182</td>
             <td>https://www.kingsbox.it/en/product/flat-bench-kingsbox/</td>
