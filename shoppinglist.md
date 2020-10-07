@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>*Great Bar Olympic Barbell</td>
+            <td>Great Bar Olympic Barbell</td>
             <td>1</td>
             <td>245</td>
             <td>https://www.kingsbox.it/en/product/great-bar-olympic-barbell/</td>
