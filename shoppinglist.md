@@ -23,7 +23,7 @@
             <td>https://www.kingsbox.it/en/product/flat-bench-kingsbox/</td>
         </tr>
         <tr>
-            <td>*Home Bumpers (5+10+(4*20))</td>
+            <td>Home Bumpers (5+10+(4*20))</td>
             <td>3</td>
             <td>672</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-home-bumper-plates/</td>
@@ -89,7 +89,7 @@
             <td>https://www.kingsbox.it/en/product/spring-collars/</td>
         </tr>
         <tr>
-            <td>*Kingsbox Lock Jaw Steel</td>
+            <td>Kingsbox Lock Jaw Al</td>
             <td>2</td>
             <td>46</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-lock-jaw-steel/</td>
