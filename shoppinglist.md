@@ -107,7 +107,7 @@
             <td>https://www.kingsbox.it/en/product/armor-dip-belt/</td>
         </tr>
         <tr>
-            <td>*Chains</td>
+            <td>Chains</td>
             <td>1</td>
             <td>58</td>
             <td>https://www.kingsbox.it/en/product/kingsbox-chains/</td>
