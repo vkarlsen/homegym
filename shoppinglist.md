@@ -101,7 +101,7 @@
             <td>https://www.kingsbox.it/en/product/cylinder-floor-stand/</td>
         </tr>
         <tr>
-            <td>*Armor dip belt</td>
+            <td>Armor dip belt</td>
             <td>1</td>
             <td>56</td>
             <td>https://www.kingsbox.it/en/product/armor-dip-belt/</td>
